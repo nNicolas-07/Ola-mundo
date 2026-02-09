@@ -1,2 +1,2 @@
 # Olá, mundo.
-primeiro repositorio do curso 
+primeiro repositorio do *curso*, **Gustavo Guanabara**
